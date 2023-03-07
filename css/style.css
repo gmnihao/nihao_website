@@ -205,50 +205,6 @@ font-size:1.1em;
     background-image: url(../images/total_capbutton.png);
     background-color:transparent; /* 替换为需要的背景色 */
   }
-  
-  
-.about-w3 {
-    background:url(../images/about.png) no-repeat 0px 0px;
-    background-size:cover;
-    background-size: 1440px 1024px;
-    background-position: center center;
-    min-height:1024px;
-    padding: 5em 0;
-}
-
-.gmgn {
-    background:url(../images/gmgn.png) no-repeat 0px 0px;
-    background-size:cover;
-    background-size: 1440px 1024px;   
-    background-position: center center;
-    min-height:1024px;
-    padding: 5em 0;
-}
-.tokenomics {
-    background:url(../images/Tokenomics.png) no-repeat 0px 0px;
-    background-size:cover;
-    background-size: 1440px 1024px;
-    background-position: center center;
-    min-height:1024px;
-    padding: 5em 0;
-}
-
-.roadmap {
-    background:url(../images/roadmap.png) no-repeat 0px 0px;
-    background-size:cover;
-    background-size: 1440px 1920px;
-    background-position: center center;
-    min-height:1920px;
-    padding: 5em 0;
-}
-.footer {
-    background:url(../images/footer.png) no-repeat 0px 0px;
-    background-size:cover;
-    background-size: 1440px 280px;
-    background-position: center center;
-    min-height:280px;
-    padding: 5em 0;
-}
 
 .footer button {
     background-color: transparent;
