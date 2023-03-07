@@ -141,7 +141,7 @@ font-size:1.1em;
     text-align: center;
     line-height: 1.2em;
     position: relative;
-    top: 500px;
+    margin-top: 45%;
   }
 
   button:hover {
@@ -194,11 +194,11 @@ font-size:1.1em;
     background-size: 100%;
     border: none;
     position: relative;
-    top: 690px;
     right: 500px;
-    width: 300px;
-    height: 50px;
+    width: 34rem;
+    height: 20rem;
     pointer-events: auto;
+    margin-top: 10rem;
   }
   
   .total_capbutton-btn:hover {
